@@ -25,7 +25,7 @@ This project is a facial recognition-based photo organizer that efficiently sort
   * The script will create a new directory (output_using_DNN by default) and sort photos into subdirectories named after the recognized individuals.
 
 ## Example Directories Structure
-project-root/
+```project-root/
 │
 ├── model_dnn.py
 ├── deploy.prototxt
@@ -46,4 +46,4 @@ project-root/
     │   ├── event_photo2.jpg
     │   └── ...
     └── ...
-
+```
