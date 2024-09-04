@@ -39,7 +39,7 @@ project-root/
 │   ├── event_photo1.jpg
 │   ├── event_photo2.jpg
 │   └── ...
-└── output_using_DNN/
+└── Output_using_DNN/
     ├── person1/
     │   ├── event_photo1.jpg
     │   └── ...
